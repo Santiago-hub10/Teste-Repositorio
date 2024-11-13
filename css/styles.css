@@ -1,0 +1,57 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos do cabeçalho */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Estilos do conteúdo principal */
+main {
+    padding: 20px;
+}
+
+/* Estilos da seção de introdução */
+#intro {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+/* Estilos da tabela de animes */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Estilos da seção de conclusão */
+#outro {
+    margin-top: 20px;
+    text-align: justify;
+}
+
+/* Estilos do rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}

@@ -9,6 +9,7 @@
 <body>
     <header>
         <h1>Explorando Mundos e Emoções Animadas</h1>
+        <p>Alterando o arquivo pelo github</p>
     </header>
     <main>
         <section id="intro">
